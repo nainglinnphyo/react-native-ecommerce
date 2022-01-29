@@ -1,0 +1,250 @@
+[{
+  "_id": {
+    "$oid": "1"
+  },
+  "image": "https://assets1.ignimgs.com/2019/09/09/fifa-20---button-2020-1568061446797.jpg",
+  "brand": "PS3",
+  "price": 250,
+  "oldPrice":400,
+  "avaliableColor":["red","black"],
+  "rating": 1,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "FIFA 20",
+  "description": "The most hard FIFA ever",
+  "category": {
+    "$oid": "1",
+    "name": "Appareal & Accessories"
+  },
+  "countInStock": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "2"
+  },
+  "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8c687d94b5654d4bb435a97f00d5a475_9366/Grand_Court_Shoes_White_F36392_01_standard.jpg",
+  "brand": "Nike",
+  "price": 350.9,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Men Shoe",
+  "description": "beautiful chair for garden",
+  "category": {
+    "$oid": "4"
+  },
+  "countInStock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "3"
+  },
+  "image": "https://images.unsplash.com/photo-1566230555350-59683b1d16e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cG9vbHxlbnwwfHwwfHw%3D&w=1000&q=80",
+  "brand": "OBI",
+  "price": 1350.9,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Swimming Pool",
+  "description": "beautiful Swimming Pool for garden",
+  "category": {
+    "$oid": "5"
+  },
+  "countInStock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "4"
+  },
+  "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbb%2F6e%2Fbb6e8e4a547fbcaba1fb5543c6d1d1c1221a83fa.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jacketscoats_bomberjackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+  "brand": "Nike",
+  "price": 490.9,
+  "rating": 5,
+  "numReviews": 0,
+  "avaliableColor":["red","black"],
+  "isFeatured": true,
+  "name": "Shirt",
+  "description": "Shirt for everyone",
+  "color":["red","green"],
+  "category": {
+    "$oid": "1"
+  },
+  "countInStock": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5"
+  },
+  "image": "https://www.freepngimg.com/thumb/fifa/11-2-fifa-png-images.png",
+  "brand": "Mobilix",
+  "price": 1000,
+  "rating": 5,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Sofa d",
+  "description": "Big Sofa for living room",
+  "category": {
+    "$oid": "1"
+  },
+  "countInStock": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6"
+  },
+  "image": "https://www.freepngimg.com/thumb/fifa/11-2-fifa-png-images.png",
+  "brand": "Mobilix",
+  "price": 1000,
+  "rating": 5,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Sofa q",
+  "description": "Big Sofa for living room",
+  "category": {
+    "$oid": "2"
+  },
+  "countInStock": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "7"
+  },
+  "image": "https://www.freepngimg.com/thumb/fifa/11-2-fifa-png-images.png",
+  "brand": "Mobilix",
+  "price": 1000,
+  "rating": 5,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Sofa g",
+  "description": "Big Sofa for living room",
+  "category": {
+    "$oid": "3"
+  },
+  "countInStock": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "8"
+  },
+  "image": "https://www.freepngimg.com/thumb/fifa/11-2-fifa-png-images.png",
+  "brand": "Mobilix",
+  "price": 1000,
+  "rating": 5,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Sofa h",
+  "description": "Big Sofa for living room",
+  "category": {
+    "$oid": "4"
+  },
+  "countInStock": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "9"
+  },
+  "image": "https://assets1.ignimgs.com/2019/09/09/fifa-20---button-2020-1568061446797.jpg",
+  "brand": "PS3",
+  "price": 250,
+  "oldPrice":400,
+  "rating": 1,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "FIFA 22320",
+  "description": "The most hard FIFA ever",
+  "category": {
+    "$oid": "5"
+  },
+  "countInStock": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "10"
+  },
+  "image": "https://assets1.ignimgs.com/2019/09/09/fifa-20---button-2020-1568061446797.jpg",
+  "brand": "PS3",
+  "price": 250,
+  "oldPrice":400,
+  "rating": 1,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "FIFA 23210",
+  "description": "The most hard FIFA ever",
+  "category": {
+    "$oid": "2"
+  },
+  "countInStock": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "11"
+  },
+  "image": "https://assets1.ignimgs.com/2019/09/09/fifa-20---button-2020-1568061446797.jpg",
+  "brand": "PS3",
+  "price": 250,
+  "oldPrice":400,
+  "rating": 1,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "FIFA 2030",
+  "description": "The most hard FIFA ever",
+  "category": {
+    "$oid": "4"
+  },
+  "countInStock": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "12"
+  },
+  "image": "https://assets1.ignimgs.com/2019/09/09/fifa-20---button-2020-1568061446797.jpg",
+  "brand": "PS3",
+  "price": 250,
+  "oldPrice":400,
+  "rating": 1,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "FIFA 2040",
+  "description": "The most hard FIFA ever",
+  "category": {
+    "$oid": "3"
+  },
+  "countInStock": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "13"
+  },
+  "image": "https://assets1.ignimgs.com/2019/09/09/fifa-20---button-2020-1568061446797.jpg",
+  "brand": "PS3",
+  "price": 250,
+  "oldPrice":400,
+  "rating": 1,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "FIFA 23",
+  "description": "The most hard FIFA ever",
+  "category": {
+    "$oid": "3"
+  },
+  "countInStock": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "13"
+  },
+  "image": "https://assets1.ignimgs.com/2019/09/09/fifa-20---button-2020-1568061446797.jpg",
+  "brand": "PS3",
+  "price": 250,
+  "oldPrice":400,
+  "rating": 1,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "FIFA 24fdfdf",
+  "description": "The most hard FIFA ever",
+  "category": {
+    "$oid": "3"
+  },
+  "countInStock": 25,
+  "__v": 0
+}]

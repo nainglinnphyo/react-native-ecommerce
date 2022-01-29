@@ -1,0 +1,24 @@
+[{
+  "name": "Appareal",
+  "icon": "https://eshopimageupload.s3.ap-southeast-1.amazonaws.com/clothe.png",
+  "id": "1"
+  },
+  {
+  "name": "Fashion",
+  "icon": "https://eshopimageupload.s3.ap-southeast-1.amazonaws.com/clothe.png",
+  "id": "2"
+  },
+  {
+  "name": "Footware",
+  "icon": "https://eshopimageupload.s3.ap-southeast-1.amazonaws.com/sport.png",
+  "id": "3"
+  },
+  {
+  "name": "Sport",
+  "id": "4",
+  "icon": "https://eshopimageupload.s3.ap-southeast-1.amazonaws.com/sport.png"
+  },{
+    "name": "Children",
+    "id": "5",
+    "icon": "https://eshopimageupload.s3.ap-southeast-1.amazonaws.com/sport.png"
+  }]
